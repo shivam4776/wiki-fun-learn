@@ -28,8 +28,8 @@ Whether you're a student, a lifelong learner, or just someone curious about the 
 
 ## 📸 Demo
 
-<img width="1071" height="880" alt="image" src="https://github.com/user-attachments/assets/c524f129-4412-4272-8aaa-fbac3d6048de" />
-<img width="1029" height="827" alt="image" src="https://github.com/user-attachments/assets/ec9161d9-7755-46de-94ff-eac5a9563ffe" />
+<img width="800" height="580" alt="image" src="https://github.com/user-attachments/assets/c524f129-4412-4272-8aaa-fbac3d6048de" />
+<img width="800" height="580" alt="image" src="https://github.com/user-attachments/assets/ec9161d9-7755-46de-94ff-eac5a9563ffe" />
 
 
 ---
@@ -101,9 +101,6 @@ Contributions are welcome! Feel free to open issues, suggest features, or submit
 
 ## 🙋‍♀️ Author
 
-Made with 💡 and 😄 by [Your Name](https://github.com/your-username)
+Made with 💡 and 😄 by Shivam Kashyap(https://github.com/shivam4776)
 Follow me for more AI experiments and fun tools!
 
----
-
-Let me know if you'd like a `requirements.txt`, sample Python script (`app.py`), or anything else added.
