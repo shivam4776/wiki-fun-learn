@@ -1,7 +1,3 @@
-Absolutely! Here's a structured and compelling README file for your **WikiFunLearn** chatbot project on GitHub. You can copy this into your `README.md` file and customize it as needed.
-
----
-
 # 🧠 WikiFunLearn – Learn with Laughter
 
 Welcome to **WikiFunLearn** – your AI-powered, Wikipedia-savvy chatbot that makes learning *fun* and *easy*!
@@ -32,7 +28,9 @@ Whether you're a student, a lifelong learner, or just someone curious about the 
 
 ## 📸 Demo
 
-> *Coming soon: GIFs or video of the chatbot in action!*
+<img width="1071" height="880" alt="image" src="https://github.com/user-attachments/assets/c524f129-4412-4272-8aaa-fbac3d6048de" />
+<img width="1029" height="827" alt="image" src="https://github.com/user-attachments/assets/ec9161d9-7755-46de-94ff-eac5a9563ffe" />
+
 
 ---
 
