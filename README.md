@@ -47,7 +47,7 @@ Whether you're a student, a lifelong learner, or just someone curious about the 
 ## 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/WikiFunLearn.git
+git clone https://github.com/shivam4776/WikiFunLearn.git
 cd WikiFunLearn
 pip install -r requirements.txt
 python app.py
