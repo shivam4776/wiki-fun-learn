@@ -93,12 +93,6 @@ Contributions are welcome! Feel free to open issues, suggest features, or submit
 
 ---
 
-## 📜 License
-
-[MIT License](LICENSE)
-
----
-
 ## 🙋‍♀️ Author
 
 Made with 💡 and 😄 by Shivam Kashyap(https://github.com/shivam4776)
